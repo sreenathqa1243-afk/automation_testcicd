@@ -1,3 +1,3 @@
 # This is readme file will be used for building automation 
 # CI CD pipe line
-#
+#echo "# automation_testcicd" >> README.md
